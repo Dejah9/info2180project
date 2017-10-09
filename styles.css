@@ -1,0 +1,55 @@
+h1{
+	margin-top: 60px;
+	border-bottom: solid;
+	color: black;
+}
+
+p{
+	font-family: "Times New Roman", Times, serif;
+	font-style: italic;
+}
+img{
+	float: right;
+	transform: rotate(-8deg);
+
+}
+
+body{
+	margin: 40px;
+	bottom: ;
+	background-color: white;
+	height:1200px;
+	width: 800px;
+}
+
+div.container{
+	
+	margin-top: 30px;	
+}
+
+
+div.subcontainer{
+		background: gray;
+		margin-bottom: 40px;
+		margin-left: 50px;
+		margin-right: 40px;
+}
+
+div.callmethis{
+	float: left;
+	width: 28%;
+	margin-left: 10px;
+	border-right:  solid;
+	border-color: black;
+	font-style: italic;	
+	height: inherit;
+}
+
+div.saythis{
+	float: right;
+	width: 45%;
+	margin-left: 80px;
+	padding-left: 115px;
+	height: inherit;
+	font-family: "Times New Roman", Times, serif;
+}
